@@ -78,7 +78,6 @@ const Contact = () => {
 
           <div className="contact-form w-full max-w-lg bg-gray-800 p-8 rounded-xl">
             <form onSubmit={sendTelegram} className="flex flex-col gap-6">
-              {/** Name Input */}
               <div>
                 <label className="text-gray-400 block mb-2" htmlFor="name">
                   {t("contact.Your Name")}
@@ -95,7 +94,6 @@ const Contact = () => {
                 />
               </div>
 
-              {/** Email Input */}
               <div>
                 <label className="text-gray-400 block mb-2" htmlFor="email">
                   {t("contact.Your Email")}
@@ -112,7 +110,6 @@ const Contact = () => {
                 />
               </div>
 
-              {/** Telegram Username Input */}
               <div>
                 <label
                   className="text-gray-400 block mb-2"
@@ -131,7 +128,6 @@ const Contact = () => {
                 />
               </div>
 
-              {/** Phone Number Input */}
               <div>
                 <label
                   className="text-gray-400 block mb-2"
@@ -150,7 +146,6 @@ const Contact = () => {
                 />
               </div>
 
-              {/** Message Input */}
               <div>
                 <label className="text-gray-400 block mb-2" htmlFor="message">
                   {t("contact.Your Message")}
@@ -167,7 +162,6 @@ const Contact = () => {
                 ></textarea>
               </div>
 
-              {/** Submit Button */}
               <button
                 type="submit"
                 className="w-full py-3 bg-sky-500 hover:bg-sky-600 text-white font-bold rounded-lg transition-colors"
