@@ -1,0 +1,35 @@
+{
+  "navbar": {
+    "About Me": "About Me",
+    "Project": "Projects",
+    "Contact": "Contact"
+  },
+  "home": {
+    "Hello": "Hello",
+    "My Name is": "My Name is",
+    "Mirmansur": "Mirmansur",
+    "I'm Frontend Developer": "I'm a Front Developer"
+  },
+  "skills": {
+    "My Tech Stack": "My Tech Stack",
+    "Technologies I’ve been working with recently": "Technologies I’ve been working with recently"
+  },
+  "aboutMe": {
+    "About Me": "About Me",
+    "Description": "My name is Mirmansur and I am 18 years old. I entered the field of programming in September 2023 and I do not regret choosing this field at all. In my spare time I am interested in reading and doing sports.I go out with people quickly.I approach my work with responsibility.I’m never ashamed to ask what I don’t know.I can adapt to any situation"
+  },
+  "myproject": {
+    "Projects": "Projects",
+    "Things I’ve built so far": "Things I’ve built so far"
+  },
+  "projet-about": {
+    "Project Tile goes here": "Project Tile goes here",
+    "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content": "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+    "Tech stack": "Tech stack",
+    "Live Preview": "Live Preview",
+    "View Code": "View Code"
+  },
+  "contact": {
+    "My telegram link for any questions": "My telegram link for any questions"
+  }
+}

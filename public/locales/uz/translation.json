@@ -1,0 +1,35 @@
+{
+  "navbar": {
+    "About Me": "Men Haqimda",
+    "Project": "Loyihalar",
+    "Contact": "Men bilan bog'lanish"
+  },
+  "home": {
+    "Hello": "Salom",
+    "My Name is": "Mening ismim",
+    "Mirmansur": "Мirmansur",
+    "I'm Frontend Developer": "Men Frontend Dasturchiman"
+  },
+  "skills": {
+    "My Tech Stack": "Mening Texnik Stackim",
+    "Technologies I’ve been working with recently": "Men yaqinda ishlagan texnologiyalar"
+  },
+  "aboutMe": {
+    "About Me": "Men Haqimda",
+    "Description": "Mening ismim Mir mansur va men 18 yoshdaman. Men dasturlash sohasiga 2023 yil sentyabr oyida kirdim va bu sohani tanlaganimdan umuman afsuslanmayman. Bo'sh vaqtimda o'qish va sport bilan shug'ullanishga qiziqaman.Men tezda odamlar bilan chiqaman.Men ishimga mas'uliyat bilan yondashaman.Men hech qachon bilmaganimni so'rashdan uyalmayman.Men har qanday vaziyatga moslasha olaman"
+  },
+  "myproject": {
+    "Projects": "Loyihalar",
+    "Things I’ve built so far": "Hozirgacha qilgan loyihalarim"
+  },
+  "projet-about": {
+    "Project Tile goes here": "Loyiha nomini ",
+    "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content": "Bu tavsifida tasodifiy narsalar mavjud bo'lgan loyiha tavsifining misoli, bu xayoliy tarkib uchun ipsum lorem generatorining namunasidir.",
+    "Tech stack": "Loyihani ko'rish",
+    "Live Preview": "Jonli Ko'rish",
+    "View Code": "Kodni Ko'rish"
+  },
+  "contact": {
+    "My telegram link for any questions": "Har qanday savol uchun mening telegram havolam"
+  }
+}

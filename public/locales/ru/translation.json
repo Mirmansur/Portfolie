@@ -1,0 +1,35 @@
+{
+  "navbar": {
+    "About Me": "Oбо мне",
+    "Project": "Проектc",
+    "Contact": "Контакт"
+  },
+  "home": {
+    "Hello": "Здравствуйте",
+    "My Name is": "Mеня зовут",
+    "Mirmansur": "Мирмансур",
+    "I'm Frontend Developer": "Я Pазработчик интерфейса"
+  },
+  "skills": {
+    "My Tech Stack": "Мой Tехнический Cтек",
+    "Technologies I’ve been working with recently": "Технологии, с которыми я работаю в последнее время"
+  },
+  "aboutMe": {
+    "About Me": "Oбо Mне",
+    "Description": "Меня зовут МирМансур, мне 18 лет. Я начал заниматься программированием в сентябре 2023 года и нисколько не жалею о выборе этой сферы. В свободное время я увлекаюсь чтением и спортом.Я быстро нахожу общий язык с людьми.Я ответственно подхожу к своей работе.Мне никогда не стыдно спросить о том, чего я не знаю.Я могу адаптироваться к любой ситуации"
+  },
+  "myproject": {
+    "Projects": "Проектc",
+    "Things I’ve built so far": "То, что я построил до сих пор"
+  },
+  "projet-about": {
+    "Project Tile goes here": "Название проекта ",
+    "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content": "Это пример описания проекта, в описании которого есть случайные вещи, это пример генератора ipsum lorem для фиктивного контента.",
+    "Tech stack": "Технический стек",
+    "Live Preview": "Живой просмотр",
+    "View Code": "Просмотр Кода"
+  },
+  "contact": {
+    "My telegram link for any questions": "По всем вопросам обращайтесь по моей ссылке в telegram"
+  }
+}
