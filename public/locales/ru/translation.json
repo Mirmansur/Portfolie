@@ -32,18 +32,18 @@
     "View Code": "Просмотр Кода"
   },
   "contact": {
-    "Get in Touch": "Bog'lanish",
-    "Feel free to send me a message": "Xabar yuborishdan tortinmang",
-    "Your Name": "Sizning ismingiz",
-    "Your Email": "Sizning emailingiz",
-    "Telegram Username": "Telegram foydalanuvchi nomi",
-    "Your Phone Number": "Telefon raqamingiz",
-    "Your Message": "Sizning xabaringiz",
-    "Enter your name": "Ismingizni kiriting",
-    "Enter your email": "Emailingizni kiriting",
-    "Enter your telegram username": "Telegram foydalanuvchi nomini kiriting",
-    "Enter your phone number": "Telefon raqamingizni kiriting",
-    "Enter your message": "Xabaringizni kiriting",
-    "Send Message": "Xabar yuborish"
+    "Get in Touch": "Свяжитесь со мной",
+    "Feel free to send me a message": "Не стесняйтесь отправить мне сообщение",
+    "Your Name": "Ваше имя",
+    "Your Email": "Ваш Email",
+    "Telegram Username": "Имя пользователя в Telegram",
+    "Your Phone Number": "Ваш номер телефона",
+    "Your Message": "Ваше сообщение",
+    "Enter your name": "Введите ваше имя",
+    "Enter your email": "Введите ваш email",
+    "Enter your telegram username": "Введите имя пользователя Telegram",
+    "Enter your phone number": "Введите ваш номер телефона",
+    "Enter your message": "Введите ваше сообщение",
+    "Send Message": "Отправить сообщение"
   }
 }
