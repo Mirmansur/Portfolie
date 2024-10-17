@@ -8,7 +8,9 @@
     "Hello": "Salom",
     "My Name is": "Mening ismim",
     "Mirmansur": "Мirmansur",
-    "I'm Frontend Developer": "Men Frontend Dasturchiman"
+    "I'm Frontend Developer": "Men Frontend Dasturchiman",
+    "I'm Web Developer": "Men Web Dasturchiman",
+    "Resumen": "Resume"
   },
   "skills": {
     "My Tech Stack": "Mening Texnik Stackim",

@@ -8,7 +8,9 @@
     "Hello": "Hello",
     "My Name is": "My Name is",
     "Mirmansur": "Mirmansur",
-    "I'm Frontend Developer": "I'm a Front Developer"
+    "I'm Frontend Developer": "I'm a Front Developer",
+    "I'm Web Developer": "I'm a Web Developer",
+    "Resumen": "Resumen"
   },
   "skills": {
     "My Tech Stack": "My Tech Stack",

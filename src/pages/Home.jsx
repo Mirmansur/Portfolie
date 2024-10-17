@@ -28,21 +28,21 @@ const Home = () => {
             data-aos-duration="3000"
           >
             <h2 className="text-2xl sm:text-3xl lg:text-4xl">
-              <Typewriter
-                options={{
-                  strings: [t("home.Hello")],
-                  autoStart: true,
-                  loop: true,
-                  delay: 75,
-                }}
-              />
+              {t("home.Hello")}
             </h2>
             <h2 className="text-2xl sm:text-3xl lg:text-4xl mt-4">
               {t("home.My Name is")} <br />
+            </h2>
+            <h2 className="text-2xl text-blue-600 sm:text-3xl lg:text-4xl mt-4 ">
+              {" "}
+              {t("home.Mirmansur")}
+            </h2>
+            <h2 className="text-2xl sm:text-3xl lg:text-4xl mt-4">
               <Typewriter
                 options={{
                   strings: [
-                    `<span class="text-sky-500">${t("home.Mirmansur")}</span>`,
+                    t("home.I'm Frontend Developer"),
+                    t("home.I'm Web Developer"),
                   ],
                   autoStart: true,
                   loop: true,
@@ -50,17 +50,7 @@ const Home = () => {
                 }}
               />
             </h2>
-            <h2 className="text-2xl sm:text-3xl lg:text-4xl mt-4">
-              <Typewriter
-                options={{
-                  strings: [t("home.I'm Frontend Developer")],
-                  autoStart: true,
-                  loop: true,
-                  delay: 75,
-                }}
-              />
-            </h2>
-            <div className="flex gap-4">
+            <div className="flex gap-4 mt-3 mb-3">
               <a
                 href="https://github.com/Mirmansur"
                 aria-label="GitHub Profile"
@@ -111,12 +101,11 @@ const Home = () => {
               className="inline-block"
             >
               <button className="bg-sky-500 hover:bg-sky-600 text-white font-bold p-3 rounded-md shadow-md hover:shadow-lg transition-all duration-300 ease-in-out pt-3">
-                Resumen
+                {t("home.Resumen")}
               </button>
             </a>
           </div>
 
-          {/* Image Section */}
           <div
             className="home-two mt-8 lg:mt-0"
             data-aos="fade-left"
@@ -131,7 +120,6 @@ const Home = () => {
           </div>
         </div>
 
-        {/* Additional Components */}
         <AboutSkills />
         <AboutMe />
         <Project />

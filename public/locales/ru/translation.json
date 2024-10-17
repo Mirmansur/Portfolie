@@ -8,7 +8,9 @@
     "Hello": "Здравствуйте",
     "My Name is": "Mеня зовут",
     "Mirmansur": "Мирмансур",
-    "I'm Frontend Developer": "Я Pазработчик интерфейса"
+    "I'm Frontend Developer": "Я Pазработчик интерфейса",
+    "I'm Web Developer": "Я Web Pазработчик ",
+    "Resumen": "Резюме"
   },
   "skills": {
     "My Tech Stack": "Мой Tехнический Cтек",

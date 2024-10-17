@@ -13,6 +13,7 @@ import icon9 from "../assets/git.svg";
 import icon11 from "../assets/github.svg";
 import icon12 from "../assets/vue3.png";
 import icon13 from "../assets/next2.png";
+import icon14 from "../assets/typescript.png";
 import { useTranslation } from "react-i18next";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
@@ -37,15 +38,7 @@ const AboutSkills = () => {
     { src: icon1, alt: "HTML" },
     { src: icon2, alt: "CSS" },
     { src: icon6, alt: "Bootstrap" },
-
-    {
-      src: "https://www.svgrepo.com/show/353401/ant-design.svg",
-      alt: "Ant Design",
-    },
-    {
-      src: "https://www.svgrepo.com/show/374144/typescript.svg",
-      alt: "TypeScript",
-    },
+    { src: icon14, alt: "TypeScript" },
   ];
 
   return (
@@ -71,6 +64,8 @@ const AboutSkills = () => {
             infiniteLoop
             showThumbs={false}
             showStatus={false}
+            showIndicators={false}
+            selectedItem={5}
             interval={2500}
             swipeable
             emulateTouch
