@@ -32,6 +32,18 @@
     "View Code": "Просмотр Кода"
   },
   "contact": {
-    "My telegram link for any questions": "По всем вопросам обращайтесь по моей ссылке в telegram"
+    "Get in Touch": "Bog'lanish",
+    "Feel free to send me a message": "Xabar yuborishdan tortinmang",
+    "Your Name": "Sizning ismingiz",
+    "Your Email": "Sizning emailingiz",
+    "Telegram Username": "Telegram foydalanuvchi nomi",
+    "Your Phone Number": "Telefon raqamingiz",
+    "Your Message": "Sizning xabaringiz",
+    "Enter your name": "Ismingizni kiriting",
+    "Enter your email": "Emailingizni kiriting",
+    "Enter your telegram username": "Telegram foydalanuvchi nomini kiriting",
+    "Enter your phone number": "Telefon raqamingizni kiriting",
+    "Enter your message": "Xabaringizni kiriting",
+    "Send Message": "Xabar yuborish"
   }
 }

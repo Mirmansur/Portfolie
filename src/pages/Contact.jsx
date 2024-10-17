@@ -88,8 +88,8 @@ const Contact = () => {
                   value={formData[name]}
                   onChange={handleChange}
                   required
-                  className="w-full px-4 py-3 rounded-lg bg-white bg-opacity-20 focus:outline-none focus:ring-2 focus:ring-indigo-400 transition"
-                  placeholder={t(`contact.Enter your ${label.toLowerCase()}`)}
+                  className="w-full px-4 py-3 rounded-lg bg-white bg-opacity-20 text-white placeholder-white focus:outline-none focus:ring-2 focus:ring-indigo-400 transition"
+                  placeholder={t(`contact.${label}`)}
                 />
               </div>
             ))}
@@ -105,7 +105,7 @@ const Contact = () => {
                 onChange={handleChange}
                 rows="4"
                 required
-                className="w-full px-4 py-3 rounded-lg bg-white bg-opacity-20 focus:outline-none focus:ring-2 focus:ring-indigo-400 transition"
+                className="w-full px-4 py-3 rounded-lg bg-white bg-opacity-20 text-white placeholder-white focus:outline-none focus:ring-2 focus:ring-indigo-400 transition"
                 placeholder={t("contact.Enter your message")}
               ></textarea>
             </div>

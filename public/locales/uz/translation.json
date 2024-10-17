@@ -32,6 +32,18 @@
     "View Code": "Kodni Ko'rish"
   },
   "contact": {
-    "My telegram link for any questions": "Har qanday savol uchun mening telegram havolam"
+    "Get in Touch": "Свяжитесь со мной",
+    "Feel free to send me a message": "Не стесняйтесь отправить мне сообщение",
+    "Your Name": "Ваше имя",
+    "Your Email": "Ваш Email",
+    "Telegram Username": "Имя пользователя в Telegram",
+    "Your Phone Number": "Ваш номер телефона",
+    "Your Message": "Ваше сообщение",
+    "Enter your name": "Введите ваше имя",
+    "Enter your email": "Введите ваш email",
+    "Enter your telegram username": "Введите имя пользователя Telegram",
+    "Enter your phone number": "Введите ваш номер телефона",
+    "Enter your message": "Введите ваше сообщение",
+    "Send Message": "Отправить сообщение"
   }
 }
