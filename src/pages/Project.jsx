@@ -7,6 +7,7 @@ import flegs from "../assets/flegs.png";
 import furniro from "../assets/furniro.png";
 import dummin from "../assets/dummin.png";
 import alishop from "../assets/alishop.png";
+import youtube from "../assets/youtube.png";
 import kino from "../assets/kino.png";
 import birga from "../assets/birga.png";
 import fruts from "../assets/fruts.png";
@@ -22,9 +23,17 @@ import icon11 from "../assets/github.svg";
 import akar from "../assets/akar.svg";
 import vue from "../assets/vue3.png";
 import next from "../assets/next2.png";
+import typescript from "../assets/typescript.png";
 import { useTranslation } from "react-i18next";
 
 const projects = [
+  {
+    img: youtube,
+    name: "Yuotube Clone",
+    link: "https://youtube-clone-beta-flame.vercel.app/#/",
+    codeLink: "https://github.com/Mirmansur/Youtube-clone",
+    techStack: [vue, icon7, typescript],
+  },
   {
     img: spotify,
     name: "Spotify Clone",
