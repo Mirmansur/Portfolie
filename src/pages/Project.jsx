@@ -42,19 +42,20 @@ const projects = [
     techStack: [icon1, icon7, icon3, icon4, icon5],
   },
   {
-    img: fruts,
-    name: "Min Shop",
-    link: "https://fruits-red-zeta.vercel.app/",
-    codeLink: "https://github.com/Mirmansur/Fruits",
-    techStack: [icon7, icon3, icon4, icon5],
-  },
-  {
     img: alishop,
     name: "Alihop Clone",
     link: "https://vue-2-lesson-project-alishop.vercel.app/#/",
     codeLink: "https://github.com/Mirmansur/vue-2-lesson-project-alishop",
     techStack: [icon7, icon3, vue, icon5],
   },
+  {
+    img: fruts,
+    name: "Min Shop",
+    link: "https://fruits-red-zeta.vercel.app/",
+    codeLink: "https://github.com/Mirmansur/Fruits",
+    techStack: [icon7, icon3, icon4, icon5],
+  },
+
   {
     img: kino,
     name: "Seach Movie",
