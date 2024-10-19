@@ -124,7 +124,6 @@ const Project = () => {
             </p>
           </div>
 
-          {/* Grid container for projects */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 p-10">
             {projects.map((project, index) => (
               <div
@@ -132,7 +131,6 @@ const Project = () => {
                 className="twos-one bg-white bg-opacity-10 backdrop-filter backdrop-blur-lg rounded-2xl shadow-xl overflow-hidden"
                 data-aos={`zoom-in-${index % 2 === 0 ? "right" : "left"}`}
               >
-                {/* Project Image */}
                 <div className="twos-img">
                   <img
                     src={project.img}
