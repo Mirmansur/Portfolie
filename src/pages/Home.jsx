@@ -9,7 +9,7 @@ import Typewriter from "typewriter-effect";
 import Project from "./Project";
 import Contact from "./Contact";
 import { FaGithub, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
-import Resume from "../assets/Raxmatov.pdf";
+import Resume from "../assets/Mirmansur.pdf";
 
 const Home = () => {
   const { t } = useTranslation();
