@@ -39,7 +39,7 @@ const projects = [
     name: "Spotify Clone",
     link: "https://n58-7-mounth-exam.vercel.app/",
     codeLink: "https://github.com/Mirmansur/N58-7-Mounth-Exam.git",
-    techStack: [icon1, icon7, icon3, icon4, icon5],
+    techStack: [icon7, icon3, icon4, icon5],
   },
   {
     img: alishop,
@@ -82,14 +82,14 @@ const projects = [
     name: "Admin Panel",
     link: "https://n58-6-mouth-exam-two.vercel.app/",
     codeLink: "https://github.com/Mirmansur/N58-6-mouth-Exam.git",
-    techStack: [icon1, icon2, icon3, icon4],
+    techStack: [icon2, icon3, icon4],
   },
   {
     img: furniro,
     name: "Wold-Country",
     link: "https://furniro-all.vercel.app/",
     codeLink: "https://github.com/Mirmansur/FurniroAll.git",
-    techStack: [icon1, icon2, icon3, icon6],
+    techStack: [icon4, icon2, icon3, icon6],
   },
   {
     img: flegs,
