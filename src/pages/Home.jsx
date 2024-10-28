@@ -63,7 +63,7 @@ const Home = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/mirmansur-rakhmatov-46b37732b/"
+                href="https://www.linkedin.com/in/mansur-rakhmatov-6a994b335/"
                 aria-label="LinkedIn Profile"
                 target="_blank"
                 rel="noopener noreferrer"
