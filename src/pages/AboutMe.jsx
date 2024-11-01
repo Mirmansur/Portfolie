@@ -23,7 +23,7 @@ const AboutMe = () => {
               {t("aboutMe.About Me")}
             </h1>
             <p
-              className="text-md sm:text-lg lg:text-xl font-sans font-medium text-gray-700 leading-relaxed"
+              className="text-md sm:text-lg lg:text-xl font-sans font-medium text-white leading-relaxed"
               data-aos="zoom-in-down"
               data-aos-duration="2000"
             >
